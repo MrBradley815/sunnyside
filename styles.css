@@ -80,7 +80,7 @@ img {
 /* HEADER */
 header {
   min-height: 80rem;
-  background-image: url(/images/desktop/image-header.jpg);
+  background-image: url(images/desktop/image-header.jpg);
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center bottom;
@@ -466,7 +466,7 @@ footer ul {
 
 @media (max-width: 599px) {
   header {
-    background-image: url(/images/mobile/image-header.jpg);
+    background-image: url(images/mobile/image-header.jpg);
     min-height: 53.8rem;
   }
   .nav {
